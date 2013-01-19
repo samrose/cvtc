@@ -1,6 +1,9 @@
-/* This file will hold styles for the mobile version of your website (mobile first). */
-/* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
-
-body {
-  font-family: Verdana;
+body, h1,h1.title, h2, h3, h4, a {
+ font-family: Arial;
 }
+
+nav.navigation h2.element-invisible {
+
+  text-align:center;
+}
+
